@@ -1,0 +1,9 @@
+
+body {
+  background-color: #000;
+  color: var(--bs-light);
+}
+
+footer {
+  background-color: var(--bs-info);
+}
