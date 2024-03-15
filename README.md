@@ -1,22 +1,25 @@
 # Viajes Chile
 
 ### Colaboradores
-```
-  Andrea Espinoza [branch](https://github.com)
-  Ariel Sandoval [branch](https://github.com)
-  Francisco Carmona [branch](https://github.com) 
-```
+
+  * Andrea Espinoza [branch](https://github.com)
+  * Ariel Sandoval [branch](https://github.com)
+  * Francisco Carmona [branch](https://github.com) 
+  * Nicolás Sanhueza [branch](https://github.com) 
 
 ### Trabajo Individual en Branch
 ```
-  * Andrea
-    - destacados y contacto
+  - Andrea
+    + destacados
 
-  * Ariel
-    - quienes somos y footer
+  - Ariel
+    + quienes somos y footer
 
-  * Francisco
-    - navbar y carrusel
+  - Francisco
+    + navbar y carrusel
+
+  - Nicolás
+    + contacto
 ```
 
 ### Comandos Git Branch Apoyo
