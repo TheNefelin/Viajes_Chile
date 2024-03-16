@@ -7,3 +7,12 @@ body {
 footer {
   background-color: var(--bs-info);
 }
+
+.card img {
+  max-height: 10rem;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: var(--bs-info);
+}
