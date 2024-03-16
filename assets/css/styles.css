@@ -8,6 +8,11 @@ footer {
   background-color: var(--bs-info);
 }
 
+
+.card {
+  width: 16rem;
+}
+
 .card img {
   max-height: 10rem;
   object-fit: cover;
