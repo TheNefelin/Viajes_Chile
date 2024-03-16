@@ -4,7 +4,7 @@
 
   * Andrea Jiménez [branch](https://github.com)
   * Ariel Sandoval [branch](https://github.com)
-  * Francisco Carmona [branch](https://github.com) 
+  * Francisco Carmona [branch](https://github.com/TheNefelin/Viajes_Chile/tree/francisco) 
   * Nicolás Sanhueza [branch](https://github.com) 
 
 ### Trabajo Individual en Branch
@@ -25,11 +25,11 @@
 ### Comandos Git Branch Apoyo
 ```
   git clone https://github.com/TheNefelin/Viajes_Chile.git
-  git checkout -b nombre-branch   // crear y cambiarse de branch
+  git checkout -b nombre-branch // crear y cambiarse de branch
 
   git add .
   git commit -m "Primer Commit"
-  git push --set-upstream origin calculadora // vincular branch al repositorio origin
+  git push --set-upstream origin nombre_branch // vincular branch al repositorio origin
 
   git push
 ```
