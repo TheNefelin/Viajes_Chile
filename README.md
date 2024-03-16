@@ -2,10 +2,10 @@
 
 ### Colaboradores
 
-  * Andrea Jiménez [branch](https://github.com)
+  * Andrea Jiménez [branch](https://github.com/TheNefelin/Viajes_Chile/tree/andrea)
   * Ariel Sandoval [branch](https://github.com)
   * Francisco Carmona [branch](https://github.com/TheNefelin/Viajes_Chile/tree/francisco) 
-  * Nicolás Sanhueza [branch](https://github.com) 
+  * Nicolás Sanhueza [branch](https://github.com/TheNefelin/Viajes_Chile/tree/nicolas) 
 
 ### Trabajo Individual en Branch
 ```
@@ -32,6 +32,14 @@
   git push --set-upstream origin nombre_branch // vincular branch al repositorio origin
 
   git push
+
+  git log
+
+  git branch
+  git checkout main
+  git pull	// en main
+  git checkout nombre_branch
+  git merge origin/main
 ```
 
 ### Colores Apoyo
