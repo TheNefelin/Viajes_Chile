@@ -1,5 +1,7 @@
 # Viajes Chile
 
+Ver el sitio en [GitHub Pages](https://thenefelin.github.io/Viajes_Chile/)
+
 ### Colaboradores
 
   * Andrea Jiménez [branch](https://github.com/TheNefelin/Viajes_Chile/tree/andrea)
@@ -35,7 +37,7 @@
   [ ] Sección Quienes Somos, debe desaparecer en tamaños pequeños de pantalla.
   [X] Sección de destacados, que muestre 4 cards.
   [X] Sección de formulario de contacto.
-  [X] Sección footer con links a las redes sociales.
+  [ ] Sección footer con links a las redes sociales.
 ```
 
 ### Comandos Git Branch Apoyo
