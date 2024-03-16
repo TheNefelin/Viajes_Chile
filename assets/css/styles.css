@@ -15,3 +15,12 @@ footer {
 .btn {
   color: var(--bs-light);
 }
+
+.card img {
+  max-height: 10rem;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: var(--bs-info);
+}
