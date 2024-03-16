@@ -2,7 +2,7 @@
 
 ### Colaboradores
 
-  * Andrea Jiménes [branch](https://github.com)
+  * Andrea Jiménez [branch](https://github.com)
   * Ariel Sandoval [branch](https://github.com)
   * Francisco Carmona [branch](https://github.com) 
   * Nicolás Sanhueza [branch](https://github.com) 
@@ -10,7 +10,7 @@
 ### Trabajo Individual en Branch
 ```
   - Andrea
-    + destacados
+    + destacados y googlefont
 
   - Ariel
     + quienes somos y footer
@@ -24,6 +24,7 @@
 
 ### Comandos Git Branch Apoyo
 ```
+  git clone https://github.com/TheNefelin/Viajes_Chile.git
   git checkout -b nombre-branch   // crear y cambiarse de branch
 
   git add .
