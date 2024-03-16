@@ -23,6 +23,7 @@
 ```
 
 ### Requerimientos
+```
   [X] CDN Bootstrap
   [ ] 2 o mas Bootstrap JS (carousel, tooltips, entre otros).
   [ ] Google Fonts.
@@ -35,6 +36,7 @@
   [X] Sección de destacados, que muestre 4 cards.
   [X] Sección de formulario de contacto.
   [X] Sección footer con links a las redes sociales.
+```
 
 ### Comandos Git Branch Apoyo
 ```
