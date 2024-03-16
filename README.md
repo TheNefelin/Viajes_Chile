@@ -2,7 +2,7 @@
 
 ### Colaboradores
 
-  * Andrea Espinoza [branch](https://github.com)
+  * Andrea Jiménes [branch](https://github.com)
   * Ariel Sandoval [branch](https://github.com)
   * Francisco Carmona [branch](https://github.com) 
   * Nicolás Sanhueza [branch](https://github.com) 
