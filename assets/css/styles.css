@@ -11,3 +11,7 @@ h1, h2 {
 footer {
   background-color: var(--bs-info);
 }
+
+.btn {
+  color: var(--bs-light);
+}
