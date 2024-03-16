@@ -22,6 +22,20 @@
     + contacto
 ```
 
+### Requerimientos
+  [X] CDN Bootstrap
+  [ ] 2 o mas Bootstrap JS (carousel, tooltips, entre otros).
+  [ ] Google Fonts.
+  [ ] Font Awesome.
+  [X] CSS utilizando selectores y clases.
+  [X] Smooth Scroll.
+  [X] NavBar, barra de navegación fija en la parte superior.
+  [X] Carousel que muestre las imágenes destacadas.
+  [ ] Quienes Somos debe desaparecer en tamaños pequeños de pantalla.
+  [X] Sección de destacados, que muestre 4 cards.
+  [X] Sección de formulario de contacto.
+  [X] Sección footer con links a las redes sociales.
+
 ### Comandos Git Branch Apoyo
 ```
   git clone https://github.com/TheNefelin/Viajes_Chile.git
