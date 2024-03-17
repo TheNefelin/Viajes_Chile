@@ -5,7 +5,7 @@ Ver el sitio en [GitHub Pages](https://thenefelin.github.io/Viajes_Chile/)
 ### Colaboradores
 
   * Andrea Jiménez [branch](https://github.com/TheNefelin/Viajes_Chile/tree/andrea)
-  * Ariel Sandoval [branch](https://github.com)
+  * Ariel Sandoval [branch](https://github.com/TheNefelin/Viajes_Chile/tree/ariel)
   * Francisco Carmona [branch](https://github.com/TheNefelin/Viajes_Chile/tree/francisco) 
   * Nicolás Sanhueza [branch](https://github.com/TheNefelin/Viajes_Chile/tree/nicolas) 
 
@@ -27,17 +27,17 @@ Ver el sitio en [GitHub Pages](https://thenefelin.github.io/Viajes_Chile/)
 ### Requerimientos
 ```
   [X] CDN Bootstrap
-  [ ] 2 o mas Bootstrap JS (carousel, tooltips, entre otros).
+  [X] 2 o mas Bootstrap JS (carousel, tooltips, entre otros).
   [ ] Google Fonts.
-  [ ] Font Awesome.
+  [X] Font Awesome.
   [X] CSS utilizando selectores y clases.
   [X] Smooth Scroll.
   [X] Sección barra de navegación fija en la parte superior.
   [X] Sección carousel que muestre las imágenes destacadas.
-  [ ] Sección Quienes Somos, debe desaparecer en tamaños pequeños de pantalla.
+  [X] Sección Quienes Somos, debe desaparecer en tamaños pequeños de pantalla.
   [X] Sección de destacados, que muestre 4 cards.
   [X] Sección de formulario de contacto.
-  [ ] Sección footer con links a las redes sociales.
+  [X] Sección footer con links a las redes sociales.
 ```
 
 ### Comandos Git Branch Apoyo

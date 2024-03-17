@@ -8,6 +8,11 @@ h1, h2 {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+  color: var(--bs-light);
+}
+
 #carouselExample img {
   max-height: 50rem;
   object-fit: cover;
@@ -17,7 +22,6 @@ h1, h2 {
 .btn {
   color: var(--bs-light);
 }
-
 
 .card {
   width: 16rem;
@@ -56,6 +60,6 @@ footer {
   background-color: var(--bs-info);
 }
 
-footer p{
+footer p {
  font-size: 1.2rem;
 }
