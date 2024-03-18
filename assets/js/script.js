@@ -4,3 +4,14 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 $("#contacto button").on("click", () => {
   alert("Mensaje Enviado con Éxito");
 });
+
+$(document).ready(function(){
+  $(window).scroll(function(){
+    var scroll = $(window).scrollTop();
+    if (scroll > 100) {
+      $(".navbar").addClass("nav-bg");
+    }else{
+      $(".navbar").removeClass("nav-bg");    
+    }
+  });
+});
