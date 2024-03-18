@@ -28,7 +28,7 @@ Ver el sitio en [GitHub Pages](https://thenefelin.github.io/Viajes_Chile/)
 ```
   [X] CDN Bootstrap
   [X] 2 o mas Bootstrap JS (carousel, tooltips, entre otros).
-  [ ] Google Fonts.
+  [X] Google Fonts.
   [X] Font Awesome.
   [X] CSS utilizando selectores y clases.
   [X] Smooth Scroll.
