@@ -2,7 +2,13 @@ const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]
 const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
 $("#contacto button").on("click", () => {
-  alert("Mensaje Enviado con Éxito");
+  if(!$("#nombre").val() || !$("#asunto").val() || !$("#mensaje").val()){
+    alert("🚫 Debes rellenar todos los campos 🚫");	
+  }
+  else{
+    alert("Mensaje Enviado con Éxito ✅");
+  }
+  
 });
 
 $(document).ready(function(){
